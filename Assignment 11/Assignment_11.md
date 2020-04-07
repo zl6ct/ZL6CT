@@ -1,5 +1,7 @@
 # Zoom Session
-I attended the zoom meeting April 7 at 11am: General CHAOSS Weekly Call and I palned to join the Risk Working Group.
+I attended the zoom meeting April 7 at 11am: General CHAOSS Weekly Call 
+
+And I palned to join the Risk Working Group.
 
 
 ## Podcast Reflection
