@@ -1,0 +1,56 @@
+body{
+   background-color: antiquewhite;    
+}
+
+#wrapper{
+
+    border-radius:25px;
+    margin-left:auto;
+    margin-right:auto;
+    height:100px;
+    width:100%;
+}
+
+h1{
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid red;
+    border-radius:20px;
+    text-align:center;
+    top:100px;
+    width:40%;
+}
+
+
+
+#map{
+    width:100%;
+    height:750px;
+    margin-top:50px;
+    
+}
+
+h2{
+    margin-top:370px;
+    margin-right:50px;
+    float:left;
+    text-align:left;
+    font-size:40px;
+    color:red;
+}
+
+h3{
+    margin-top:370px;
+    margin-left:50px;
+    color:red;
+    float:left;
+    font-size:40px;
+}
+.Image{
+    float:left;
+    display:block;
+    width:700px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,0 +1,29 @@
+body{
+  background-color: #4682B4;    
+}
+
+h1{
+    color:red;
+    border-radius:25px;
+    margin-left:auto;
+    margin-right:auto;
+    border:2px solid purple;
+    font-size: 50px;
+    text-align: center;
+}
+
+#feedback{
+     border:1ox solid black;
+     text-align:center;
+     width:500px;
+     margin-left:auto;
+     margin-right: auto;
+     border:2px solid black;
+     border-radius:30px;
+     margin-top:200px;
+}
+
+.data{
+    width:150px;
+    height:40px;
+}

@@ -1,0 +1,30 @@
+<!--定义表单 form-->
+<!DOTYPE html>
+<html lang="en">
+<head> 
+        <title>Our driver, your driver</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" type="text/css" href="rating.css">
+</head>
+<body>
+     <h1>Your comments are valued</h1>
+    <form action="passengerrating.php" method="post">
+    <table id="feedback">
+        <tr>
+            <td><label for="P_IDnumber">IDnumber</label></td>
+            <td><input class="data" type="text" name="P_IDnumber" id="P_IDnumber"></td>
+        </tr>
+
+        <tr>
+            <td><label for="PRating">Rating</label></td>
+            <td><input class="data" type="PRating" name="PRating" id="PRating" ></td>
+        </tr>
+		
+		<tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="rate"></td>
+        </tr>
+    </table>
+    </form>
+</body> 
+</html>
