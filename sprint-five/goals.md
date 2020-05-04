@@ -5,6 +5,7 @@ What I did
 
 The SSO client sends a request to access the service resources provided by the application system. Get lt
 Sign in function and I have already got a database to store user information(by xmapp)
+
 what I didn't finish
 
 The SSO server should generate a random Service Ticket but I don't know how to achieve this.
