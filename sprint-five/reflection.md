@@ -11,5 +11,6 @@ what I didn't finish
 
 The SSO server should generate a random Service Ticket but I don't know how to achieve this.
 
-functional description
+Functional description
+
 I hope in the end of the semester I could add my website sign in connected with google account, which could be much easier. I hope the driver and the passenger (which I mentioned last Assignment) can get the information for each other without need their account password.
