@@ -1,11 +1,2 @@
 # ZL6CT
-For now, I just follow the instruction on github to build an app which can sign in and sign out. At the mean time, I still try to add the sso for my last Assignment's website. It still not work now, I will keep working on this, I think it is similar with this example, but I can't get ticket. 
-
-What I did
-
-The SSO client sends a request to access the service resources provided by the application system. Get lt
-Sign in function and I have already got a database to store user information(by xmapp)
-
-what I didn't finish
-
-The SSO server should generate a random Service Ticket but I don't know how to achieve this.
+I want to build a taxi service system, similar to UBER or Lyft, that would bring another competitor to the market and drive competition. To have a successful business that involves not only vehicles but customers as well. Correctly identifying both driver and passenger is crucial for speediness of pickup times and to keep drivers on the road with passengers is the overall goal. The application could contain a large amount of data about current rides, giving admins the ability to see where more drivers are needed. Some information for Passenger and Driver will be collected(If allowed).
